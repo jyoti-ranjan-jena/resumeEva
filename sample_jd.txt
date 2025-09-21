@@ -1,0 +1,9 @@
+Senior Data Engineer
+
+Responsibilities:
+- Build and maintain ETL pipelines using Python and Spark.
+- Work with AWS (S3, EMR), Docker, and Kubernetes.
+- Strong SQL skills.
+
+Must have: Python, SQL, AWS, Docker
+Good to have: Spark, Kubernetes, Airflow

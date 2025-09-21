@@ -1,0 +1,3 @@
+John Doe
+Data Engineer with 3 years experience in Python, SQL, and AWS. Built ETL pipelines and worked with Docker. Experience with pandas and Spark (internship). 
+Projects: ETL pipeline for ingestion of clickstream data (Python, AWS S3).

@@ -1,0 +1,3 @@
+openai
+sentence-transformers
+torch   # only if using sentence-transformers locally
